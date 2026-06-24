@@ -14,7 +14,6 @@ Currently, I'm exploring advanced RAG architectures and AI agents while strength
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Danyl993\&show_icons=true\&theme=github_dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Danyl993\&theme=github-dark)
 
@@ -23,7 +22,6 @@ Currently, I'm exploring advanced RAG architectures and AI agents while strength
 * Adaptive RAG Study Tutor
 * Bird Species Classifier using MobileNetV2
 * Agentic RAG Systems
-* Website RAG Applications
 * Smart Digital Lock System
 
 ## Connect With Me

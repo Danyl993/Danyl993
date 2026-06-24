@@ -1,4 +1,4 @@
-## Danyl Bince
+#### Danyl Bince
 
 Third-Year B.Tech Computer Science (AI/ML) student at PES University with interests in Artificial Intelligence, Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), and Computer Vision.
 
@@ -32,4 +32,4 @@ Always happy to connect with fellow developers, researchers, and AI enthusiasts.
 
 [LinkedIn](https://www.linkedin.com/in/danyl-bince-182340408/)
 
-[Gmail]([gmail.com](https://gmail.com/))
+[Gmail](https://gmail.com/)

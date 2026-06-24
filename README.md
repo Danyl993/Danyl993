@@ -21,21 +21,17 @@ Seeking opportunities in AI/ML, Software Development, and Research-oriented role
 
 ## Featured Projects
 
-### Adaptive RAG Study Tutor
+Adaptive RAG Study Tutor
 
-Persistent AI-powered study assistant with document retrieval, revision support, and semester-long memory using RAG.
 
-### Bird Species Classifier
+Bird Species Classifier
 
-Computer vision model built using MobileNetV2 for bird species classification across multiple categories.
 
-### Agentic RAG Systems
+Agentic RAG Systems
 
-Implemented autonomous retrieval workflows combining LLMs, vector databases, and tool-based reasoning.
 
-### Smart Digital Lock System
+Smart Digital Lock System
 
-Arduino-based smart security system using RFID authentication and embedded hardware components.
 
 
 ## Connect With Me

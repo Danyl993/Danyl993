@@ -2,13 +2,23 @@
 
 I'm a 3rd Year CSE (AI/ML) student at PES University, passionate about building AI solutions that solve real-world problems. My interests include RAG systems, LLMs, AI agents, and Computer Vision.
 
+Currently seeking AI/ML, Software Development, and Research Internship opportunities.
+
 Currently, I'm exploring advanced RAG architectures and AI agents while strengthening my knowledge of System Design and Data Structures & Algorithms.
 
-## What I Work With
+## Tech Stack
 
-Python, PyTorch, TensorFlow, OpenCV, LlamaIndex, Pinecone, NumPy, Pandas, Git, and Linux.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,linux,c" />
+</p>
 
-## Some Things I've Built
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Danyl993\&show_icons=true\&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Danyl993\&theme=github-dark)
+
+## Featured Projects
 
 * Adaptive RAG Study Tutor
 * Bird Species Classifier using MobileNetV2
@@ -20,4 +30,4 @@ Python, PyTorch, TensorFlow, OpenCV, LlamaIndex, Pinecone, NumPy, Pandas, Git, a
 
 Always happy to connect with fellow developers, researchers, and AI enthusiasts.
 
-LinkedIn: [(https://www.linkedin.com/in/danyl-bince-182340408/)]
+[LinkedIn](https://www.linkedin.com/in/danyl-bince-182340408/)

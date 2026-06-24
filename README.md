@@ -1,10 +1,12 @@
-# Hi, I'm Danyl 👋
+Danyl Bince
 
-I'm a 3rd Year CSE (AI/ML) student at PES University, passionate about building AI solutions that solve real-world problems. My interests include RAG systems, LLMs, AI agents, and Computer Vision.
+Third-Year B.Tech Computer Science (AI/ML) student at PES University with interests in Artificial Intelligence, Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), and Computer Vision.
 
-Currently seeking AI/ML, Software Development, and Research Internship opportunities.
+Experienced in developing AI-driven applications, intelligent retrieval systems, and computer vision solutions using modern machine learning frameworks and tools.
 
-Currently, I'm exploring advanced RAG architectures and AI agents while strengthening my knowledge of System Design and Data Structures & Algorithms.
+Currently focused on advanced RAG architectures, AI agents, System Design, and Data Structures & Algorithms.
+
+Seeking opportunities in AI/ML, Software Development, and Research-oriented roles.
 
 ## Tech Stack
 
@@ -29,3 +31,4 @@ Currently, I'm exploring advanced RAG architectures and AI agents while strength
 Always happy to connect with fellow developers, researchers, and AI enthusiasts.
 
 [LinkedIn](https://www.linkedin.com/in/danyl-bince-182340408/)
+[Gmail](gmail.com)

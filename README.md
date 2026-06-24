@@ -9,7 +9,7 @@ Currently, I'm exploring advanced RAG architectures and AI agents while strength
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,linux,c" />
+  <img src="https://skillicons.dev/icons?i=python,c,tensorflow,pytorch,git,linux,html,css,javascript" />
 </p>
 
 ## GitHub Stats

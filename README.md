@@ -19,20 +19,6 @@ Seeking opportunities in AI/ML, Software Development, and Research-oriented role
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Danyl993\&theme=github-dark)
 
-## Featured Projects
-
-Adaptive RAG Study Tutor
-
-
-Bird Species Classifier
-
-
-Agentic RAG Systems
-
-
-Smart Digital Lock System
-
-
 
 ## Connect With Me
 
